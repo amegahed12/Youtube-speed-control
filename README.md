@@ -25,13 +25,7 @@ A lightweight browser extension that lets you **control YouTube playback speed**
 1. Clone or download this repo.
 2. Go to `about:debugging#/runtime/this-firefox`.
 3. Click **Load Temporary Add-on** and select `manifest.json`.
-
----
-
-## 📸 Demo
-
-<img src="https://ibb.co/hJhL8Yw6" alt="Screenshot">
-
+   
 ---
 
 ## 🛠 Development
